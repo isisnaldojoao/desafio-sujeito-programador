@@ -1,0 +1,52 @@
+body{
+  margin-top: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color:#080808 ;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title{
+  margin: 20px;
+}
+
+.form{
+  background-color: #fff;
+  color: #000;
+  width: 450px;
+  height: 200px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.inputForm{
+  font-weight: normal;
+  font-size: 18px;
+  margin:5px 5px;
+}
+.inputName{
+  width: 400px;
+  height: 30px;
+  background-color: #000;
+  border-radius: 5px;
+  color: #fff;
+}
+
+button{
+  width: 400px;
+  background-color: #1e90ff ;
+  border: none;
+  font-weight: bold;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.report{
+  margin-top: 10px;
+}
